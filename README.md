@@ -36,3 +36,4 @@ Taking notes as blue team tools to have a better understanding of technologies u
 ## Configuration Files
  will be be put into a folder with files with log files and tbd.
 
+
